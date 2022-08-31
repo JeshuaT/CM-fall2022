@@ -16,4 +16,4 @@ Note that these are suggestions. If you have another way of running/editing a Ju
 
 **Handing-in**
 
-Hand in a PDF of Homework-Categorization-PartA.ipynb on Brightspace. 
+Hand in an html of Homework-Categorization-PartA.ipynb on Brightspace. 
