@@ -10,7 +10,7 @@ There are two competing computational hypotheses for how humans categorize. In t
 
 We will use Pyhon 3 and Jupyter Notebooks during the workgroups. To get everything up and running:
 - Download the homeworks/homework-Categorization folder (https://github.com/JeshuaT/CM-fall2022/tree/master/homeworks/homework-Categorization). You can do this by pasting the link into https://downgit.github.io/
-- Install Jupyter Notebooks in your favorite Python IDE (https://jupyter.org/install)
+- (if you haven't done so in the previous workgroup): Install Jupyter Notebooks in your favorite Python IDE (https://jupyter.org/install)
 - Unzip the downloaded folder and open it in your Python IDE with Jupyter Notebooks installed
 - Download any remaining packages that are not in your Python3 folder yet
 
