@@ -1,6 +1,6 @@
-# Computational cognitive modeling - Fall 2022 - first three workgroups
+# Computational cognitive modeling - Fall 2023 - first three workgroups
 
-**Instructors**: [Jeshua Tromp](https://www.universiteitleiden.nl/en/staffmembers/jeshua-tromp#tab-1) and [Beth Lloyd](https://www.universiteitleiden.nl/en/staffmembers/beth-lloyd#tab-1)
+**Instructors**: [Jeshua Tromp](https://www.universiteitleiden.nl/en/staffmembers/jeshua-tromp#tab-1) and [Philippa Johnson](https://www.universiteitleiden.nl/medewerkers/philippa-johnson#tab-1)
 
 **Summary**: 
 
