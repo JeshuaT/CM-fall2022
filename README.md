@@ -14,7 +14,14 @@ We will use Pyhon 3 and Jupyter Notebooks during the workgroups. To get everythi
 - Unzip the downloaded folder and open it in your Python IDE with Jupyter Notebooks installed
 - Download any remaining packages that are not in your Python3 folder yet
 
-Note that these are suggestions. If you have another way of running/editing a Jupyer Notebook, you are more than welcome to use that. Make sure however that you do run it in a way that, in the end, you can make an HTML of your Jupyter notebook.
+You can also use Google Colab to access and run the Jupyter Notebooks without downloading anything:
+
+[Part A](https://colab.research.google.com/github/JeshuaT/CM-fall2023/blob/master/homeworks/homework-Categorization/Homework-Categorization-PartA.ipynb)
+
+[Part B](https://colab.research.google.com/github/JeshuaT/CM-fall2023/blob/master/homeworks/homework-Categorization/Homework-Categorization-PartB.ipynb)
+
+
+Note that these are suggestions. If you have another way of running/editing a Jupyer Notebook, you are more than welcome to use that. Make sure however that you do run it in a way that, in the end, you can save your Jupyter notebook.
 
 **Handing-in**
 
